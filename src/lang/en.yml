@@ -86,7 +86,7 @@ HOLO_REPLACER_CHANNEL: '§a%s §f%s is playing now'
 HOLO_REPLACER_CHANNEL_ERROR: '§cServers not found!'
 HOLO_SPECTATOR_NPC:
 - '§e§lSpectator'
-- '§fLets watch the game'
+- '§fLet's watch the game'
 - '§fon the arenas that have already started'
 HOLO_SHOP_NPC:
 - '§a§lShop'
@@ -3798,7 +3798,7 @@ SOUND_BW_LAUGHTER: 'Mockery'
 SOUND_BW_LAUGHTER_LORE:
 - ''
 - '§7Broke a bed?'
-- '§7Lets laugh at its owner, haha!'
+- '§7Let's laugh at its owner, haha!'
 SOUND_BW_WITHER: 'Wither Patrol'
 SOUND_BW_WITHER_LORE:
 - ''
@@ -3824,7 +3824,7 @@ SOUND_BW_DOOR_LORE:
 SOUND_BW_ANVIL: 'Anvil hit'
 SOUND_BW_ANVIL_LORE:
 - ''
-- '§7"Im hitting two timme: first by bed,'
+- '§7"Im hitting three times: first by bed,'
 - '§7second - by coffin lid.'
 - '§7And the third by anvil."'
 SOUND_BW_PORTAL: 'Portal Opening'
@@ -3867,7 +3867,7 @@ PERK_BW_MISER_LORE:
 PERK_BW_BUSINESSMAN: 'Businessman'
 PERK_BW_BUSINESSMAN_LORE:
 - ''
-- '§7If you spends 48 bornze, you will'
+- '§7If you spends 48 bronze, you will'
 - '§7receive 1 iron as gift,'
 - '§7for every 10 iron - 1 gold.'
 - '§7Counter cancels when you are die'
@@ -3896,7 +3896,7 @@ PERK_BW_ALCHEMIST: 'Alchemist'
 PERK_BW_ALCHEMIST_LORE:
 - ''
 - '§7Drinkable potions in your inventory'
-- '§7turns to splash'
+- '§7turn to splash'
 PERK_BW_HEAD_HUNTER: 'Head hunter'
 PERK_BW_HEAD_HUNTER_LORE:
 - ''
@@ -3910,7 +3910,7 @@ PERK_BW_ALL_SEEING_LORE:
 PERK_BW_BED_MONSTER: 'Bedside monster'
 PERK_BW_BED_MONSTER_LORE:
 - ''
-- '§7If any bed breaks you recieve Speed II'
+- '§7If any bed is broken you recieve Speed II'
 - '§7and Regeneration II for 20 seconds'
 PERK_BW_POINTER: 'Pointer'
 PERK_BW_POINTER_LORE:
@@ -3930,7 +3930,7 @@ PERK_BW_BLOOD_FEUD: 'Blood enmity'
 PERK_BW_MANIAC: 'Maniac'
 PERK_BW_MANIAC_LORE:
 - ''
-- '§7When you breaks enemy bed you recieve'
+- '§7When you break enemy bed you recieve'
 - '§7Strength I for 15 seconds'
 PERK_BW_TAILOR: 'Sartor'
 PERK_BW_TAILOR_LORE:
@@ -3951,26 +3951,26 @@ PERK_BW_TIME_LORD_LORE:
 BW_BLOCK_SHOP: 'Blocks'
 BW_BLOCK_SHOP_LORE:
 - ''
-- '§7Byuing blocks, chests'
+- '§7Buying blocks, chests'
 - '§7cobweb and other stuff'
 - ''
 - '§e▸ Click to open the menu'
 BW_ARMOR_SHOP: 'Armor'
 BW_ARMOR_SHOP_LORE:
 - ''
-- '§7Byuing armor'
+- '§7Buying armor'
 - ''
 - '§e▸ Click to open the menu'
 BW_TOOL_SHOP: 'Instruments'
 BW_TOOL_SHOP_LORE:
 - ''
-- '§7Byuing pickaxes, axes and other'
+- '§7Buying pickaxes, axes and other'
 - ''
 - '§e▸ Click to open the menu'
 BW_BOW_SHOP: 'Bows'
 BW_BOW_SHOP_LORE:
 - ''
-- '§7Byuing bow and arrows'
+- '§7Buying bow and arrows'
 - ''
 - '§e▸ Click to open the menu'
 BW_SWORD_SHOP: 'Weapon'
@@ -3982,13 +3982,13 @@ BW_SWORD_SHOP_LORE:
 BW_POTION_SHOP: 'Potions'
 BW_POTION_SHOP_LORE:
 - ''
-- '§7Byuing potions and other magical stuff'
+- '§7Buying potions and other magical stuff'
 - ''
 - '§e▸ Click to open the menu'
 BW_OTHER_SHOP: 'Other'
 BW_OTHER_SHOP_LORE:
 - ''
-- '§7Byuing of coolest stuff is exactly here!'
+- '§7Buying of coolest stuff is exactly here!'
 - ''
 - '§e▸ Click to open the menu'
 
@@ -4060,8 +4060,8 @@ BW_SHOP_COMPASS: 'Locator'
 BW_SHOP_COMPASS_LORE:
 - ' §8▪ §7Compass §8x1'
 - ''
-- '§7§oIndicates for nearest player'
-- '§7§oor your team member'
+- '§7§oIndicates for the nearest player'
+- '§7§or your team member'
 
 BW_SHOP_STICK: 'Stick'
 BW_SHOP_STICK_LORE:
@@ -4354,7 +4354,7 @@ GADGET_DELETED_NOT_FOUND: 'No gadget activated'
 GADGET_DELETED_ALL: 'Disable all gadgets'
 GADGET_DELETED_GUI_LORE:
 - ''
-- '§7List of activated gagdets'
+- '§7List of activated gadgets'
 - ''
 - '§e▸ Click to open menu'
 GADGETS_GUI_INFO_NAME: '§aGeneral statistics'
@@ -4414,7 +4414,7 @@ GADGETS_GUI_EMOTES_NAME: 'Emotions'
 GADGETS_GUI_EMOTES_LORE:
 - ''
 - '§7Want to describe your emotions, but'
-- '§7words is not enough? You are not need it,'
+- '§7words is not enough? You are not need them,'
 - '§7you have our emotions!'
 - ''
 - '§7Opened: §a%s/%s §6%s'
@@ -4422,7 +4422,7 @@ GADGETS_GUI_EMOTES_LORE:
 - '%s'
 - ''
 - '§e▸ Click to open menu'
-GADGETS_GUI_COMPANION_NAME: 'Companoins'
+GADGETS_GUI_COMPANION_NAME: 'Companions'
 GADGETS_GUI_COMPANION_LORE:
 - ''
 - '§7This section has little and cute'
